@@ -1,0 +1,78 @@
+C:\Users\studyplug afrika\source\repos\API_template\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\studyplug afrika\source\repos\API_template\bin\Debug\net8.0\appsettings.json
+C:\Users\studyplug afrika\source\repos\API_template\bin\Debug\net8.0\API_template.staticwebassets.endpoints.json
+C:\Users\studyplug afrika\source\repos\API_template\bin\Debug\net8.0\API_template.exe
+C:\Users\studyplug afrika\source\repos\API_template\bin\Debug\net8.0\API_template.deps.json
+C:\Users\studyplug afrika\source\repos\API_template\bin\Debug\net8.0\API_template.runtimeconfig.json
+C:\Users\studyplug afrika\source\repos\API_template\bin\Debug\net8.0\API_template.dll
+C:\Users\studyplug afrika\source\repos\API_template\bin\Debug\net8.0\API_template.pdb
+C:\Users\studyplug afrika\source\repos\API_template\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\studyplug afrika\source\repos\API_template\obj\Debug\net8.0\API_template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\studyplug afrika\source\repos\API_template\obj\Debug\net8.0\API_template.AssemblyInfoInputs.cache
+C:\Users\studyplug afrika\source\repos\API_template\obj\Debug\net8.0\API_template.AssemblyInfo.cs
+C:\Users\studyplug afrika\source\repos\API_template\obj\Debug\net8.0\API_template.csproj.CoreCompileInputs.cache
+C:\Users\studyplug afrika\source\repos\API_template\obj\Debug\net8.0\API_template.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\studyplug afrika\source\repos\API_template\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\studyplug afrika\source\repos\API_template\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\studyplug afrika\source\repos\API_template\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\studyplug afrika\source\repos\API_template\obj\Debug\net8.0\scopedcss\bundle\API_template.styles.css
+C:\Users\studyplug afrika\source\repos\API_template\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\studyplug afrika\source\repos\API_template\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\studyplug afrika\source\repos\API_template\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\studyplug afrika\source\repos\API_template\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\studyplug afrika\source\repos\API_template\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\studyplug afrika\source\repos\API_template\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\studyplug afrika\source\repos\API_template\obj\Debug\net8.0\API_template.dll
+C:\Users\studyplug afrika\source\repos\API_template\obj\Debug\net8.0\refint\API_template.dll
+C:\Users\studyplug afrika\source\repos\API_template\obj\Debug\net8.0\API_template.pdb
+C:\Users\studyplug afrika\source\repos\API_template\obj\Debug\net8.0\API_template.genruntimeconfig.cache
+C:\Users\studyplug afrika\source\repos\API_template\obj\Debug\net8.0\ref\API_template.dll
+C:\Users\studyplug afrika\source\repos\API_template\obj\Debug\net8.0\API_temp.1AD59657.Up2Date
+C:\Users\studyplug afrika\source\repos\API_template\bin\Debug\net8.0\BCrypt-Net-Next.dll
+C:\Users\studyplug afrika\source\repos\API_template\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\Users\studyplug afrika\source\repos\API_template\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\studyplug afrika\source\repos\API_template\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\studyplug afrika\source\repos\API_template\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\studyplug afrika\source\repos\API_template\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\studyplug afrika\source\repos\API_template\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\studyplug afrika\source\repos\API_template\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\studyplug afrika\source\repos\API_template\obj\Debug\net8.0\API_template.csproj.AssemblyReference.cache
+C:\Users\studyplug afrika\Downloads\studyplug africa template\poe_template\API_template\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\studyplug afrika\Downloads\studyplug africa template\poe_template\API_template\bin\Debug\net8.0\appsettings.json
+C:\Users\studyplug afrika\Downloads\studyplug africa template\poe_template\API_template\bin\Debug\net8.0\API_template.staticwebassets.endpoints.json
+C:\Users\studyplug afrika\Downloads\studyplug africa template\poe_template\API_template\bin\Debug\net8.0\API_template.exe
+C:\Users\studyplug afrika\Downloads\studyplug africa template\poe_template\API_template\bin\Debug\net8.0\API_template.deps.json
+C:\Users\studyplug afrika\Downloads\studyplug africa template\poe_template\API_template\bin\Debug\net8.0\API_template.runtimeconfig.json
+C:\Users\studyplug afrika\Downloads\studyplug africa template\poe_template\API_template\bin\Debug\net8.0\API_template.dll
+C:\Users\studyplug afrika\Downloads\studyplug africa template\poe_template\API_template\bin\Debug\net8.0\API_template.pdb
+C:\Users\studyplug afrika\Downloads\studyplug africa template\poe_template\API_template\bin\Debug\net8.0\BCrypt-Net-Next.dll
+C:\Users\studyplug afrika\Downloads\studyplug africa template\poe_template\API_template\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\Users\studyplug afrika\Downloads\studyplug africa template\poe_template\API_template\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\studyplug afrika\Downloads\studyplug africa template\poe_template\API_template\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\studyplug afrika\Downloads\studyplug africa template\poe_template\API_template\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\studyplug afrika\Downloads\studyplug africa template\poe_template\API_template\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\studyplug afrika\Downloads\studyplug africa template\poe_template\API_template\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\studyplug afrika\Downloads\studyplug africa template\poe_template\API_template\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\studyplug afrika\Downloads\studyplug africa template\poe_template\API_template\obj\Debug\net8.0\API_template.csproj.AssemblyReference.cache
+C:\Users\studyplug afrika\Downloads\studyplug africa template\poe_template\API_template\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\studyplug afrika\Downloads\studyplug africa template\poe_template\API_template\obj\Debug\net8.0\API_template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\studyplug afrika\Downloads\studyplug africa template\poe_template\API_template\obj\Debug\net8.0\API_template.AssemblyInfoInputs.cache
+C:\Users\studyplug afrika\Downloads\studyplug africa template\poe_template\API_template\obj\Debug\net8.0\API_template.AssemblyInfo.cs
+C:\Users\studyplug afrika\Downloads\studyplug africa template\poe_template\API_template\obj\Debug\net8.0\API_template.csproj.CoreCompileInputs.cache
+C:\Users\studyplug afrika\Downloads\studyplug africa template\poe_template\API_template\obj\Debug\net8.0\API_template.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\studyplug afrika\Downloads\studyplug africa template\poe_template\API_template\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\studyplug afrika\Downloads\studyplug africa template\poe_template\API_template\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\studyplug afrika\Downloads\studyplug africa template\poe_template\API_template\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\studyplug afrika\Downloads\studyplug africa template\poe_template\API_template\obj\Debug\net8.0\scopedcss\bundle\API_template.styles.css
+C:\Users\studyplug afrika\Downloads\studyplug africa template\poe_template\API_template\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\studyplug afrika\Downloads\studyplug africa template\poe_template\API_template\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\studyplug afrika\Downloads\studyplug africa template\poe_template\API_template\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\studyplug afrika\Downloads\studyplug africa template\poe_template\API_template\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\studyplug afrika\Downloads\studyplug africa template\poe_template\API_template\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\studyplug afrika\Downloads\studyplug africa template\poe_template\API_template\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\studyplug afrika\Downloads\studyplug africa template\poe_template\API_template\obj\Debug\net8.0\API_temp.1AD59657.Up2Date
+C:\Users\studyplug afrika\Downloads\studyplug africa template\poe_template\API_template\obj\Debug\net8.0\API_template.dll
+C:\Users\studyplug afrika\Downloads\studyplug africa template\poe_template\API_template\obj\Debug\net8.0\refint\API_template.dll
+C:\Users\studyplug afrika\Downloads\studyplug africa template\poe_template\API_template\obj\Debug\net8.0\API_template.pdb
+C:\Users\studyplug afrika\Downloads\studyplug africa template\poe_template\API_template\obj\Debug\net8.0\API_template.genruntimeconfig.cache
+C:\Users\studyplug afrika\Downloads\studyplug africa template\poe_template\API_template\obj\Debug\net8.0\ref\API_template.dll

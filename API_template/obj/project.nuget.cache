@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "14Wyv3yJD1c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\studyplug afrika\\Downloads\\studyplug africa template\\poe_template\\API_template\\API_template.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\studyplug afrika\\.nuget\\packages\\bcrypt.net-next\\4.2.0\\bcrypt.net-next.4.2.0.nupkg.sha512",
+    "C:\\Users\\studyplug afrika\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512",
+    "C:\\Users\\studyplug afrika\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\studyplug afrika\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\studyplug afrika\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\studyplug afrika\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\studyplug afrika\\.nuget\\packages\\system.data.sqlclient\\4.9.1\\system.data.sqlclient.4.9.1.nupkg.sha512"
+  ],
+  "logs": []
+}

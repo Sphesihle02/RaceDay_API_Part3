@@ -1,1 +1,2 @@
 # RaceDay_API_Part3
+This is a full-stack web-based event management system designed specifically for running, walking and cyclicing community. The platform will allow Event Organissers to create and manage events, categories, and participant results, while participants can browse upcoming events, enter events, track their personal performance history, and prepare for race day using live weather and route information.
